@@ -19,6 +19,7 @@ export const projects = [
       "Modular command structure for easy expansion",
     ],
     proof: "It doesn't just run commands; it holds a conversation.",
+    link: "https://github.com/chaith1912/J.A.R.V.I.S",
   },
   {
     title: "FlavorVerse",
@@ -37,6 +38,7 @@ export const projects = [
       "Kept state local for instant feedback",
     ],
     proof: "Turned complex vendor data into a clean, vibe-worthy interface.",
+    link:"https://github.com/chaith1912/flavor-verse",
   },
   {
     title: "Campus Care",
@@ -55,6 +57,7 @@ export const projects = [
       "Normalized SQL schema for integrity",
     ],
     proof: "Architected a backend that treats sensitive health data with the security it requires.",
+    link:"https://github.com/yakshiigowda/Campus_Care",
 },
   {
     title: "Skill Swap",
@@ -73,5 +76,6 @@ export const projects = [
       "Focused on connection over complexity",
     ],
     proof: "A community-focused tool that solves the 'tutorial hell' problem by connecting humans.",
+    link:"https://github.com/chaith1912/Skill-Swap",
   },
 ];
