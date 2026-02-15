@@ -254,7 +254,13 @@ export default function App() {
 
         {/* FOOTER */}
         <footer className="py-12 text-center text-zinc-600 text-sm">
-          <p>© {new Date().getFullYear()} Chaithanya.dev. Built with React & Tailwind.</p>
+          <p className="mb-2">© {new Date().getFullYear()} Chaithanya.dev. Built with React & Tailwind.</p>
+          <a 
+            href={CONFIG.social.email}
+            className="hover:text-zinc-400 transition-colors duration-300"
+          >
+            raochaithanya56@gmail.com
+          </a>
         </footer>
 
       </main>
