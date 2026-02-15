@@ -79,7 +79,7 @@ const Hero = () => (
         {CONFIG.name}
       </h1>
       <p className="text-sm text-zinc-400 mb-6 font-medium camelcase tracking-wide">
-        H/o Chinmayi C Rao
+        Full Stack Dev
       </p>
 
       {/* --- SLOGAN --- */}
